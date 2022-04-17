@@ -1,0 +1,21 @@
+body
+    {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 0;
+        background: #FFC09F;
+        background-size: cover;
+        background-attachment: fixed;/*dejo la imagen fija*/   
+    }
+    header
+    {
+        background: #FFEE93;
+    
+
+    }
+
+*
+    {
+        box-sizing: border-box;
+        margin: 1px;
+        padding: 0;
+    }
