@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/PPROF1-2021/g5-a3g5/blob/master/img/logo.png" align="left" height="300"></a>
+<a href="url"><img src="href=/gastonloco/Grupo5/blob/main/img/logo1.png" height="300"></a>
 
 
 # Gestión de Ventas
