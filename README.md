@@ -2,8 +2,8 @@
 
 
 # Factura Online
-## Gestión de depósito (Sistema de Facturación)
-### https://pprof1-2021.github.io/g5-a3g5/
+## Gestión de Ventas
+### https://gastonloco.github.io/Grupo5
 <br>
 <br>
 
@@ -56,7 +56,6 @@ El sistema de facturación está apuntado a toda persona que tiene comercio onli
 Damos la bienvenida a todos los colaboradores 💙
 
 - **Clavaguera Abril**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/Abrilc90).
-- **Heredia, Laura**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/Lauraheredia).
 
 - **Zapata, Mónica**. Estudiante de Desarrollo Web y Aplicaciones Móviles [Ver Github](https://github.com/MonicaVZapata).
 
