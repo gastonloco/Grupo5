@@ -1,4 +1,4 @@
-<a href="url"><img src="https://gastonloco/Grupo5/blob/main/img/logo1.png" height="300"></a>
+<a href="url"><img src="https://github.com/gastonloco/Grupo5/blob/main/img/logo1.png" height="300"></a>
 
 
 # Gestión de Ventas
@@ -74,7 +74,7 @@ Semana del 12/10:
 
 <p align="center">
   <a>
-    <img alt="Edit on CodeSandbox" src="https://gastonloco/Grupo5/blob/main/img/logo1.png">
+  <img alt="Edit on CodeSandbox" src="https://github.com/gastonloco/Grupo5/blob/main/img/logo1.png">
 
 
   </a>
