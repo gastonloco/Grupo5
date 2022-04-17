@@ -1,4 +1,4 @@
-<a href="url"><img src="href=/gastonloco/Grupo5/blob/main/img/logo1.png" height="300"></a>
+<a href="url"><img src="https://gastonloco/Grupo5/blob/main/img/logo1.png" height="300"></a>
 
 
 # Gestión de Ventas
